@@ -35,6 +35,6 @@
 
 <h2>📽️ Video Demo</h2>
 <p>🔹 I have uploaded a <strong>video demo</strong> of the dashboard in this repository. Watch it to see the interactive features in action!</p>
-<p>📹 <a href="https://github.com/HasiiPerera/Sales-Performance-Dashboard/blob/main/Power%20BI%20dashboard.mp4" target="_blank"><strong>View Dashboard Demo</strong></a></p>
+<p>📹 <a href="https://drive.google.com/file/d/1zsUTYgHWtTb43KRCdZYTPLjoQTxyCiSS/view?usp=sharing" target="_blank"><strong>View Dashboard Demo</strong></a></p>
 
 <hr>
